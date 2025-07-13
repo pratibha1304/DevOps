@@ -10,4 +10,4 @@ def lwinfo():
 def lwphonw():
 	return "9274881980"
 
-app.run()
+app.run("host="0.0.0.0")
